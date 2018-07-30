@@ -14,9 +14,8 @@ public class ReadExcel {
 	
 	
 	 public Object[][] readnumericvalue(String ExcelPath) throws IOException {
-		 
+		    // Excel path the path where the excel sheet is kept.
 		    File src = new File(ExcelPath);
-	        //File src = new File("/Users/Apple/Documents/TestData.xlsx");
 	        FileInputStream fis = new FileInputStream(src);
 	        XSSFWorkbook wb = new XSSFWorkbook(fis);
 	        XSSFSheet sheet1 = wb.getSheetAt(0);
