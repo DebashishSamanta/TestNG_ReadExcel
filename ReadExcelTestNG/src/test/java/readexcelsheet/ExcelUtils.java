@@ -13,7 +13,7 @@ public class ExcelUtils {
 	
 	ReadExcel Read = new ReadExcel();
 	
-
+    // In this method : I am just printing the value that I am Retrieving from Excel through Program ReadExcel
     @Test(dataProvider = "GetData")
     public void testMethod(String TCName, String UserName,String Password ) {
         System.err.println("Test case Name :" + TCName + " User Name " + UserName + " Password "+ Password);
