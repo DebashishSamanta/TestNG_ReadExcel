@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1183" started-at="2018-07-30T13:28:08Z" finished-at="2018-07-30T13:28:10Z">
+  <suite name="Default suite" duration-ms="1600" started-at="2018-07-31T12:28:59Z" finished-at="2018-07-31T12:29:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1183" started-at="2018-07-30T13:28:08Z" finished-at="2018-07-30T13:28:10Z">
+    <test name="Default test" duration-ms="1600" started-at="2018-07-31T12:28:59Z" finished-at="2018-07-31T12:29:01Z">
       <class name="readexcelsheet.ExcelUtils">
-        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.ExcelUtils@27efef64]" name="testMethod" duration-ms="12" started-at="2018-07-30T13:28:10Z" data-provider="GetData" finished-at="2018-07-30T13:28:10Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.ExcelUtils@27efef64]" name="testMethod" duration-ms="10" started-at="2018-07-31T12:29:01Z" data-provider="GetData" finished-at="2018-07-31T12:29:01Z">
           <params>
             <param index="0">
               <value>
@@ -28,7 +28,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.ExcelUtils@27efef64]" name="testMethod" duration-ms="3" started-at="2018-07-30T13:28:10Z" data-provider="GetData" finished-at="2018-07-30T13:28:10Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.ExcelUtils@27efef64]" name="testMethod" duration-ms="1" started-at="2018-07-31T12:29:01Z" data-provider="GetData" finished-at="2018-07-31T12:29:01Z">
           <params>
             <param index="0">
               <value>
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.ExcelUtils@27efef64]" name="testMethod" duration-ms="2" started-at="2018-07-30T13:28:10Z" data-provider="GetData" finished-at="2018-07-30T13:28:10Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.ExcelUtils@27efef64]" name="testMethod" duration-ms="1" started-at="2018-07-31T12:29:01Z" data-provider="GetData" finished-at="2018-07-31T12:29:01Z">
           <params>
             <param index="0">
               <value>
@@ -70,7 +70,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.ExcelUtils@27efef64]" name="testMethod" duration-ms="2" started-at="2018-07-30T13:28:10Z" data-provider="GetData" finished-at="2018-07-30T13:28:10Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.ExcelUtils@27efef64]" name="testMethod" duration-ms="1" started-at="2018-07-31T12:29:01Z" data-provider="GetData" finished-at="2018-07-31T12:29:01Z">
           <params>
             <param index="0">
               <value>
